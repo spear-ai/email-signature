@@ -10,6 +10,6 @@ Jane
   <a href="tel:5169468226">555-555-5555</a><br>
   <a href="mailto:jdoe@spear.ai">jdoe@spear.ai</a><br>
   <a href="https://spear.ai">
-    <img alt="Spear AI" src="https://spear-ai-static.s3.amazonaws.com/email-signature-logo-light.png" width="92">
+    <img alt="Spear AI" src="logo-light.png" width="92">
   </a>
 </div>
