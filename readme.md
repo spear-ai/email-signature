@@ -7,7 +7,7 @@ Best,
 Jane
 
 <div style="font-family:sans-serif;font-size:12px;">
-  —<br>
+  --<br>
   Jane Doe<br>
   Meeting Survival Strategist<br>
   <a style="text-decoration:none" href="tel:+15551234567">555-123-4567</a><br>
